@@ -1,0 +1,19 @@
+font:
+
+  normal:
+    family: "Jua"
+    style: Regular
+
+  bold:
+    family: "Jua"
+    style: Bold
+
+  italic:
+    family: "Jua"
+    style: Italic
+
+  bold_italic:
+    family: "Jua"
+    style: Bold Italic
+
+  size: 10
